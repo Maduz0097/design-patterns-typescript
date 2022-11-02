@@ -1,9 +1,13 @@
 {
   "name": "design-patterns-typescript",
   "author": "Yamika Perera",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library for implement structural design patterns",
   "main": "./lib/cjs/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maduz0097/design-patterns-typescript"
+  },
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
   "scripts": {
